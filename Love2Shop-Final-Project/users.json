@@ -1,0 +1,19 @@
+{
+    "heqther": {
+        "password": "123456",
+        "reward_points": 37,
+        "closet": [
+            "dress",
+            "heels",
+            "purse",
+            "earrings",
+            "rings",
+            "boots",
+            "necklace",
+            "necklace",
+            "socks",
+            "skirt",
+            "jeans"
+        ]
+    }
+}
